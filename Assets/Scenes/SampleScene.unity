@@ -152,47 +152,111 @@ MonoBehaviour:
   m_Spline:
     m_IsOpenEnded: 0
     m_ControlPoints:
-    - position: {x: -7.419252, y: -4.1751137, z: 0}
-      leftTangent: {x: 0.53597367, y: -0.00048214197, z: -0}
-      rightTangent: {x: -0.53597367, y: 0.00048214197, z: 0}
+    - position: {x: -38.418953, y: -7.2957587, z: 0}
+      leftTangent: {x: 0.53598404, y: -0.0004825592, z: 0}
+      rightTangent: {x: -0.53598404, y: 0.00049209595, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: -7.867058, y: 4.0370655, z: 0}
-      leftTangent: {x: -1.0023332, y: 0.0010559559, z: 0}
-      rightTangent: {x: 0.4602263, y: -0.00048482418, z: 0}
+    - position: {x: -37.0277, y: 4.6452622, z: 0}
+      leftTangent: {x: -1.0023422, y: 0.0010576248, z: 0}
+      rightTangent: {x: 0.07795334, y: -0.00008249283, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 0.7758178, y: 2.3670955, z: 0}
-      leftTangent: {x: -0.70534194, y: 0.04915456, z: -0}
-      rightTangent: {x: 2.7162805, y: -0.18929482, z: 0}
+    - position: {x: -31.69618, y: -0.2572736, z: 0}
+      leftTangent: {x: -1.8162022, y: 0.5282632, z: 0}
+      rightTangent: {x: 3.0567608, y: -0.88910955, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 7.0892615, y: 3.6145666, z: 0}
-      leftTangent: {x: -0.54116464, y: -0.0009151697, z: 0}
-      rightTangent: {x: 1.0005913, y: 0.0016920567, z: 0}
+    - position: {x: -18.433638, y: 7.653065, z: 0}
+      leftTangent: {x: -4.2903957, y: 1.7517495, z: 0}
+      rightTangent: {x: 3.2948837, y: -1.3452868, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-    - position: {x: 8.126751, y: -4.399442, z: 0}
-      leftTangent: {x: 0.54391515, y: 0.0004222989, z: 0}
-      rightTangent: {x: -0.54391515, y: -0.0004222989, z: -0}
+    - position: {x: -10.749154, y: 1.5794634, z: 0}
+      leftTangent: {x: -3.047699, y: 0.8168217, z: 0}
+      rightTangent: {x: 2.5524874, y: -0.6842738, z: 0}
       mode: 1
       height: 1
       spriteIndex: 0
       corner: 1
       m_CornerMode: 1
-  m_SpriteShape: {fileID: 11400000, guid: f24cddf7c09a6442abbce710a6fd7397, type: 2}
+    - position: {x: -1.5720013, y: 4.547246, z: 0}
+      leftTangent: {x: -0.97699416, y: 2.4821434, z: 0}
+      rightTangent: {x: 1.0218582, y: -2.5961254, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 2.5188894, y: 3.2693796, z: 0}
+      leftTangent: {x: -1.8347895, y: -0.7239506, z: 0}
+      rightTangent: {x: 3.1880636, y: 1.2579103, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 8.54498, y: 8.067174, z: 0}
+      leftTangent: {x: -2.9667473, y: -0.101872444, z: 0}
+      rightTangent: {x: 2.0308485, y: 0.06952, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 13.520547, y: 3.9951003, z: 0}
+      leftTangent: {x: -2.4375095, y: 0.25251555, z: 0}
+      rightTangent: {x: 1.5524483, y: -0.16057897, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 20.596893, y: 6.479769, z: 0}
+      leftTangent: {x: -1.663147, y: 0.07910061, z: 0}
+      rightTangent: {x: 3.2162285, y: -0.1533637, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 26.401722, y: 0.88929546, z: 0}
+      leftTangent: {x: -2.5217419, y: 0.449216, z: 0}
+      rightTangent: {x: 4.3571033, y: -0.7746369, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 37.850296, y: 0.8698339, z: 0}
+      leftTangent: {x: -0.1783371, y: -0.00030374527, z: 0}
+      rightTangent: {x: 1.0006142, y: 0.0016914606, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+    - position: {x: 39.166473, y: -8.569941, z: 0}
+      leftTangent: {x: 0.5439186, y: 0.00042057037, z: 0}
+      rightTangent: {x: -0.54392624, y: -0.00041675568, z: 0}
+      mode: 1
+      height: 1
+      spriteIndex: 0
+      corner: 1
+      m_CornerMode: 1
+  m_SpriteShape: {fileID: 11400000, guid: 367a6f65c9a13e649a380033ec3d1db4, type: 2}
   m_FillPixelPerUnit: 256
   m_StretchTiling: 1
   m_SplineDetail: 16
@@ -266,9 +330,9 @@ SpriteShapeRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_ShapeTexture: {fileID: 2800000, guid: b281b91a70a624a0da1c43adc1c30c7b, type: 3}
+  m_ShapeTexture: {fileID: 2800000, guid: f77c5966c987b5a4c9a69a9462cf8b20, type: 3}
   m_Sprites:
-  - {fileID: 21300000, guid: 0ae2b74b1edd14bb18dd7b65ae916a54, type: 3}
+  - {fileID: -7106506581416268285, guid: a2a996a75ca7baf46a5d14e4b7458c2d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
@@ -278,8 +342,8 @@ SpriteShapeRenderer:
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   - {fileID: 21300000, guid: 608e61deb05c54660bebf5a4dd2ee02d, type: 3}
   m_LocalAABB:
-    m_Center: {x: 0.009881973, y: -0.18391657, z: 0}
-    m_Extent: {x: 8.575426, y: 4.465418, z: 0}
+    m_Center: {x: 0.37906265, y: -0.24327469, z: 0}
+    m_Extent: {x: 39.80036, y: 9.155409, z: 0}
   m_SpriteSortPoint: 0
 --- !u!4 &28112189
 Transform:
@@ -290,8 +354,8 @@ Transform:
   m_GameObject: {fileID: 28112186}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -2.1267, y: 0.0653, z: 0}
+  m_LocalScale: {x: 1.2317, y: 0.9866, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -402,7 +466,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
