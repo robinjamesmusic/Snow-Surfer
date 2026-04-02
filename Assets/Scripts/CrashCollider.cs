@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CrashCollider : MonoBehaviour
 {
@@ -8,8 +9,7 @@ public class CrashCollider : MonoBehaviour
 
         if (collision.gameObject.layer == layerIndex)
         {
-            Debug.Log("The player has lost!");
-            
+            SceneManager.LoadScene(0);  
         }
 
     }
