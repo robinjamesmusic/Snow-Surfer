@@ -1352,6 +1352,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd3ed7e9d049c514794dafe2410835dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CrashCollider
+  restartDelay: 1.99
 --- !u!58 &631976560
 CircleCollider2D:
   m_ObjectHideFlags: 0

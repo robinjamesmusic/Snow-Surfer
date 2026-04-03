@@ -9,11 +9,16 @@ public class FinishLine : MonoBehaviour
 
         if (collision.gameObject.layer == layerIndex)
         {
-            SceneManager.LoadScene(0);
+            Invoke("ReloadScene", 1f);
+            //SceneManager.LoadScene(0);
         }
 
     }
-    
+
+    void ReloadScene()
+    {
+        SceneManager.LoadScene(0);
+    }    
 
    
 }
